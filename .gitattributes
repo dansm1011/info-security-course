@@ -1,1 +1,4 @@
 *.pdf filter=lfs diff=lfs merge=lfs -text
+/346/225/231/346/235/220/3208338_/344/277/241/346/201/257/345/256/211/345/205/250/344/270/216/346/212/200/346/234/257/357/274/210/347/254/2542/347/211/210/357/274/211.pdf filter=lfs diff=lfs merge=lfs -text
+教材/my-large-file.pdf filter=lfs diff=lfs merge=lfs -text
+教材/3208338_信息安全与技术（第2版）.pdf filter=lfs diff=lfs merge=lfs -text
